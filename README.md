@@ -14,8 +14,8 @@ I'm Yves Hakizimana, a passionate Java developer specializing in Spring Boot dev
 - 🔐 Experienced in implementing authentication and authorization mechanisms using Keycloak and OAuth2.
 
 ## Get in Touch
-- 📫 Reach me via email: [your.email@example.com]
-- 💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/yves-hakizimana/).
+- 📫 Reach me via email: yvhakizimana123@gmail.com
+- 💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/hakizimana-yves-250164256/).
 
 ## Fun Fact
 - ⚡ Fun fact: I enjoy watching insects and birds in my free time!
